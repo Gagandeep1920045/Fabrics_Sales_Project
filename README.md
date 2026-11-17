@@ -31,3 +31,6 @@ The primary goal of this dashboard is to deliver an automated, interactive analy
 * Regional Resource Allocation: With North and West generating ₹3.61M each and South trailing at ₹2.95M, sales teams can investigate promotional gaps in the South region while maintaining fulfillment capacity in the North.
 * Customer Retention: Identifying the top 10 revenue-generating customers enables targeted loyalty programs and proactive account management for high-frequency buyers.
 * Automated Data Reliability: Leveraging a Medallion Lakehouse and Data Warehouse architecture ensures single-source-of-truth reporting with minimal manual intervention.
+## Dashboard Preview 📷  
+This is how the dashboard looks like :
+![Alt_text](https://github.com/Gagandeep1920045/Fabrics_Screenshots/blob/main/Dashboard.png)
