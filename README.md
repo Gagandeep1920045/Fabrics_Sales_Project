@@ -31,3 +31,5 @@ The primary goal of this dashboard is to deliver an automated, interactive analy
 * Targeted Regional Strategy: Leadership can now focus marketing efforts and sales support on the South region to close the revenue gap with the North and West.
 * Customer Retention: Identifying the top 10 revenue-generating customers enables targeted loyalty programs and proactive account management for high-frequency buyers.
 ## Dashboard Preview 📷  
+This is how the dashboard looks like :
+![Alt_text](https://github.com/Gagandeep1920045/Fabrics_Sales_Project/blob/main/Screenshots/Snapshot%20Of%20Dashboard.png)
